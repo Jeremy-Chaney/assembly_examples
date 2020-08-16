@@ -1,7 +1,5 @@
-#Lab 5
-#Caesar Cipher for ENGR 2306
+#Caesar Cipher
 #Jeremy Chaney
-#Joey Holroyd
 	.text
 funct:	la $a0,function			#determine whether encoding or decoding
 	li $v0,4
